@@ -1,0 +1,6 @@
+k8s/minikube-linux-amd64
+*.tar.gz
+*.zip
+venv/
+node_modules/
+__pycache__/
